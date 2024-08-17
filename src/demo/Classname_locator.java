@@ -13,6 +13,9 @@ public class Classname_locator {
 		driver.get("https://rahulshettyacademy.com/AutomationPractice/");
 		WebElement radiobutton=driver.findElement(By.className("radioButton"));//The classname should have text in a continuos manner there is no gap in the text
 		radiobutton.click();
+		//line1
+		//line2
+		//line3
 
 	}
 
