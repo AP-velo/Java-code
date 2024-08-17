@@ -16,7 +16,9 @@ public class Classname_locator {
 		//line1
 		//line2
 		//line3
-
+		System.out.println("Hi!");
+		System.out.println("Hello!");
+		System.out.println("Bye!");
 	}
 
 }
